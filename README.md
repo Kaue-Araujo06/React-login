@@ -1,7 +1,7 @@
 # Login
 
 - uma tela de login simples, que foi integrada a um banco de dados sql(PhpMyAdmin).
-- 
+  
 - Formulário com:
 - email input
 - password input
