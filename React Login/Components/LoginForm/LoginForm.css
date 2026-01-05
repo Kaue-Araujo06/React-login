@@ -1,0 +1,25 @@
+.buttons-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+.inputs-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10;
+}
+.itens-form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.submit-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

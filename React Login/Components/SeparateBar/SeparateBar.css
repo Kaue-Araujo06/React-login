@@ -1,0 +1,16 @@
+.Left-bar,
+.Right-bar{
+height: 1px;
+background-color: black;
+width: 50%;
+}
+.Container-bar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.Text-or{
+    font-size: 8pt;
+}
